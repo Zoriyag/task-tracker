@@ -1,4 +1,4 @@
-# task-tracker
+# task-tracker.py
 Simple Python CLI task tracker app
 tasks = []
 
